@@ -6,11 +6,15 @@ You can see my courseworks through links below:
 
 ### 1. STAT 479 (Data Science Computing Project)
 
-* [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
+* [Homework](https://github.com/xyang467/STAT479homework)
 
-* [group3-CHTC](https://github.com/gjsorrell/stat479-project3)
+* [group2: LinuxExercises](https://github.com/xyang467/LinuxExercises)
 
-* [group4-project: Predicting Amazon Customer Review](https://github.com/gjsorrell/stat479-final-project)
+* [group3: CHTC](https://github.com/gjsorrell/stat479-project3)
+
+* [Final project: Predicting Amazon Customer Review](https://github.com/gjsorrell/stat479-final-project)
+
+
 
 
 <!---
