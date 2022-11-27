@@ -1,10 +1,10 @@
-### Hi there!
+# Hi there!
 
 I am Xinyue Yang (Sherry) from University of Wisconsin - Madison. 
 
 You can see my courseworks through links below:
 
-##### 1. STAT 479 (Data Science Computing Project)
+### 1. STAT 479 (Data Science Computing Project)
 
 * [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
 
