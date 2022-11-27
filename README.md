@@ -1,6 +1,6 @@
-# Hi there!
+## Hi there!
 
-I am Xinyue Yang (Sherry) from University of Wisconsin - Madison. 
+I am **Xinyue Yang (Sherry)** from University of Wisconsin - Madison. 
 
 You can see my courseworks through links below:
 
