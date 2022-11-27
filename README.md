@@ -6,7 +6,7 @@ You can see my courseworks through links below:
 
 1. STAT 479 (Data Science Computing Project)
 
-⋅⋅* [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
+⋅⋅⋅* [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
 
 ⋅⋅* [group3-CHTC](https://github.com/gjsorrell/stat479-project3)
 
