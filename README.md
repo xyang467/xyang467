@@ -5,9 +5,9 @@ I am Xinyue Yang (Sherry) from University of Wisconsin - Madison.
 You can see my courseworks through links below:
 
 1. STAT 479 (Data Science Computing Project)
-* [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
-* [group3-CHTC](https://github.com/gjsorrell/stat479-project3)
-* [group4-project: Predicting Amazon Customer Review](https://github.com/gjsorrell/stat479-final-project)
+⋅⋅* [group2-LinuxExercises](https://github.com/xyang467/LinuxExercises)
+⋅⋅* [group3-CHTC](https://github.com/gjsorrell/stat479-project3)
+⋅⋅* [group4-project: Predicting Amazon Customer Review](https://github.com/gjsorrell/stat479-final-project)
 
 
 <!---
