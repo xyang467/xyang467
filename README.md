@@ -14,7 +14,7 @@ You can see my courseworks through links below:
 
 * [Final project: Predicting Amazon Customer Review](https://github.com/gjsorrell/stat479-final-project)
 
-### 2. STAT 479 (Machine Learning)
+### 2. STAT 451 (Machine Learning)
 * [Final project: Classification of Higgs Boson in the ATLAS Experiment](https://github.com/xyang467/STAT451)
 
 ### 3. CS 320 (Data Sci Programming II)
