@@ -4,7 +4,7 @@ I am Xinyue Yang (Sherry) from University of Wisconsin - Madison.
 
 You can see my courseworks through links below:
 
-[STAT 479 (Data Science Computing Project)] (https://github.com/xyang467/LinuxExercises)
+[STAT 479 (Data Science Computing Project)](https://github.com/xyang467/LinuxExercises)
 
 
 
